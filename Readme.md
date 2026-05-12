@@ -82,24 +82,3 @@ This project uses the Corporación Favorita Store Sales dataset, which includes:
 - Oil-driven economic fluctuations
 
 These complexities make the forecasting task realistic and rich.
-
-## About This Project
-
-I completed this project as part of strengthening my portfolio in applied machine learning and time-series forecasting.
-It helped me learn:
-
-- How to engineer useful features for thousands of overlapping time series
-- Why boosted tree models often outperform classical forecasting techniques
-- How economic and external signals impact retail behavior
-- Best practices for validation in time-series problems
-
-## Let’s Connect
-
-If you have feedback, suggestions, or would like to collaborate, feel free to reach out:
-
-LinkedIn: https://www.linkedin.com/in/mohit-mathur-r15
-Email: matmohit11@gmail.com
-
-## Acknowledgements
-
-This project uses public data released for the Kaggle Store Sales — Time Series Forecasting competition.
